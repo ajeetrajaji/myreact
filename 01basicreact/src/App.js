@@ -1,7 +1,10 @@
+import Chai from "./chai.js"
 
 function App() {
   return (
-  <h1>Hii Ajeet </h1>
+    <>
+  <Chai/>
+    </>
   );
 }
 
